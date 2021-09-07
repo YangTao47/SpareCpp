@@ -1,0 +1,4 @@
+﻿  restructdigital.cpp
+d:\训练题保存\project1\project1\restructdigital.cpp(75): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Project1.vcxproj -> D:\训练题保存\Project1\x64\Debug\Project1.exe
+  Project1.vcxproj -> D:\训练题保存\Project1\x64\Debug\Project1.pdb (Partial PDB)
